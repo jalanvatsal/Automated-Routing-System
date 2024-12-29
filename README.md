@@ -36,7 +36,6 @@ Proceed 0.028 miles north on a path
 Take a left turn on Bruin Walk
 Proceed 0.098 miles west on Bruin Walk
 Take a right turn on a path
-12
 Proceed 0.074 miles north on a path
 Welcome to John Wooden Center!
 This is where you go to get swole.
